@@ -1,0 +1,6 @@
+hedspi hedpsi123 0 0
+hust hust123 1 0
+soict soict123 1 0
+dang dang123 1 0
+tung tung123 1 0
+hung hung123 0 1
